@@ -6,5 +6,7 @@ public class Multiply
     int b =6;
 
     System.out.println("Product is  "+a*b);
+////addded vasnsh
+
 }
 }
